@@ -1,2 +1,2 @@
 # miniLib
-i little compilation of my favorites libC functions that i recreated it (cause its cool) !
+a small compilation of my favorite libC functions that i have recreated (because it's cool)!
