@@ -1,4 +1,4 @@
-# 🛠️ Minilib Project 🛠️
+# 🛠️ Minilib 🛠️
 
 Welcome to the **Minilib** project! 🎉  
 This is a collection of handy functions written in C, designed to make your life easier when working with strings, memory manipulation, linked lists, and file output. 🚀
