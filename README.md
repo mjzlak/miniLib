@@ -1,7 +1,7 @@
 # 🛠️ Minilib Project 🛠️
 
 Welcome to the **Minilib** project! 🎉  
-This is a collection of handy functions written in C, designed to make your life easier when working with strings, memory manipulation, and linked lists. 🚀
+This is a collection of handy functions written in C, designed to make your life easier when working with strings, memory manipulation, linked lists, and file output. 🚀
 
 ## 📚 Contents
 
@@ -9,10 +9,13 @@ This is a collection of handy functions written in C, designed to make your life
 - [Memory Functions](#memory-functions)
 - [Malloc Functions](#malloc-functions)
 - [Linked List Functions](#linked-list-functions)
+- [Print to File Functions](#print-to-file-functions)
+
+---
 
 ## String Functions ✨
 
-These are functions that help you manage channels in a very simple way. 💪
+These are functions that help you handle strings like a pro. 💪
 
 - `isalpha()` — Checks if a character is alphabetic. 🔤  
 - `ft_isdigit()` — Checks if a character is a digit. 1️⃣  
@@ -23,11 +26,16 @@ These are functions that help you manage channels in a very simple way. 💪
 - `ft_strchr()` — Locates the first occurrence of a character in a string. 🔍  
 - `ft_strrchr()` — Locates the last occurrence of a character in a string. 🔎  
 - `ft_strncmp()` — Compares two strings up to a certain length. 📐  
+- `ft_memchr()` — Searches for a byte in a block of memory. 🔍  
+- `ft_memcmp()` — Compares two blocks of memory. ⚖️  
 - `ft_strnstr()` — Finds the first occurrence of a substring within a string. 🔗  
+- `ft_atoi()` — Converts a string to an integer. 🔢  
+
+---
 
 ## Memory Functions 🧠
 
-These functions are here to manage memory like a big CHAD ! 🏆
+These functions are here to manage memory like a boss! 🏆
 
 - `ft_memset()` — Fills memory with a specific value. 🔲  
 - `ft_bzero()` — Sets memory to zero. 🛑  
@@ -35,6 +43,8 @@ These functions are here to manage memory like a big CHAD ! 🏆
 - `ft_memmove()` — Safely moves memory when there’s overlap. 🔄🔁  
 - `ft_memchr()` — Searches for a byte in a block of memory. 🔍  
 - `ft_memcmp()` — Compares two blocks of memory. ⚖️  
+
+---
 
 ## Malloc Functions 💡
 
@@ -54,6 +64,8 @@ Need to dynamically allocate memory? These will do the trick. 🧰
 - `ft_putendl_fd()` — Outputs a string followed by a newline to a file descriptor. ✨  
 - `ft_putnbr_fd()` — Outputs an integer to a file descriptor. 🔢🖤  
 
+---
+
 ## Linked List Functions 🔗
 
 Handling linked lists made easy! 🚀
@@ -70,16 +82,27 @@ Handling linked lists made easy! 🚀
 
 ---
 
+## Print to File Functions 📝
+
+These functions help you print to a file descriptor! Perfect for logging or file-based output. 📂
+
+- `ft_putchar_fd(char c, int fd)` — Outputs a character to a specified file descriptor. 🖋️  
+- `ft_putstr_fd(char *s, int fd)` — Outputs a string to a specified file descriptor. 📝  
+- `ft_putendl_fd(char *s, int fd)` — Outputs a string followed by a newline to a specified file descriptor. ✨  
+- `ft_putnbr_fd(int n, int fd)` — Outputs an integer to a specified file descriptor. 🔢🖤  
+
+---
+
 ## 🚀 How to Use
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/mjzlak/minilib.git
+git clone https://github.com/yourusername/minilib.git
 ```
 
 To use any of these functions in your project, simply include the `minilib.h` header file, and link to the compiled `.a` library. 🎯
 
 ---
 
-Enjoy using Minilib in your C projects! If you have any questions, feel free to open an issue or contact me! 🤖💬
+Enjoy using **Minilib** in your C projects! If you have any questions, feel free to open an issue or contact me! 🤖💬
