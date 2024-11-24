@@ -29,7 +29,8 @@ These are functions that help you handle strings like a pro. 💪
 - `ft_memchr()` — Searches for a byte in a block of memory. 🔍  
 - `ft_memcmp()` — Compares two blocks of memory. ⚖️  
 - `ft_strnstr()` — Finds the first occurrence of a substring within a string. 🔗  
-- `ft_atoi()` — Converts a string to an integer. 🔢  
+- `ft_atoi()` — Converts a string to an integer. 🔢
+- `ft_itoa()` — Converts an integer to a string. 🔢➡️🔤  
 
 ---
 
@@ -56,13 +57,8 @@ Need to dynamically allocate memory? These will do the trick. 🧰
 - `ft_strjoin()` — Joins two strings into one. 🔗  
 - `ft_strtrim()` — Trims leading and trailing whitespace from a string. ✂️🧹  
 - `ft_split()` — Splits a string into an array of substrings. 🪄  
-- `ft_itoa()` — Converts an integer to a string. 🔢➡️🔤  
 - `ft_strmapi()` — Applies a function to each character of a string, and returns a new string. 🔄🔤  
-- `ft_striteri()` — Applies a function to each character of a string, modifying the string in place. 🔄🔄  
-- `ft_putchar_fd()` — Outputs a character to a file descriptor. 🖋️  
-- `ft_putstr_fd()` — Outputs a string to a file descriptor. 📝  
-- `ft_putendl_fd()` — Outputs a string followed by a newline to a file descriptor. ✨  
-- `ft_putnbr_fd()` — Outputs an integer to a file descriptor. 🔢🖤  
+- `ft_striteri()` — Applies a function to each character of a string, modifying the string in place. 🔄🔄   
 
 ---
 
