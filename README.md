@@ -98,7 +98,7 @@ These functions help you print to a file descriptor! Perfect for logging or file
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/minilib.git
+git clone https://github.com/mjzlak/minilib.git
 ```
 
 To use any of these functions in your project, simply include the `minilib.h` header file, and link to the compiled `.a` library. 🎯
