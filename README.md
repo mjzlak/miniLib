@@ -1,6 +1,6 @@
 # 🛠️ Minilib 🛠️
 
-Welcome to the **Minilib** project! 🎉  
+Welcome to the **Minilib**! 🎉  
 This is a collection of handy functions written in C, designed to make your life easier when working with strings, memory manipulation, linked lists, and file output. 🚀
 
 ## 📚 Contents
