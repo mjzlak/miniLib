@@ -17,7 +17,7 @@ This is a collection of handy functions written in C, designed to make your life
 
 These are functions that help you handle strings like a pro. 💪
 
-- `isalpha()` — Checks if a character is alphabetic. 🔤  
+- `ft_isalpha()` — Checks if a character is alphabetic. 🔤  
 - `ft_isdigit()` — Checks if a character is a digit. 1️⃣  
 - `ft_isalnum()` — Checks if a character is alphanumeric (a letter or a digit). 🔠🔢  
 - `ft_isascii()` — Checks if a character is an ASCII character. 🖥️  
