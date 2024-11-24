@@ -101,4 +101,4 @@ To use any of these functions in your project, simply include the `minilib.h` he
 
 ---
 
-Enjoy using **Minilib** in your C projects! If you have any questions, feel free to open an issue or contact me! 🤖💬
+Enjoy using **Minilib** in your C projects as i'm doing ! 🤖
